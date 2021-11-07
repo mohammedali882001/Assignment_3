@@ -23,13 +23,13 @@ public class Baseball extends Ball
     @Override
     public void toss()
     {
-        System.out.println("معلوووول");
+        
     }
 
     @Override
     public void bounce()
     {
-        System.out.println("دياااااانج");
+       
     }
     
     
