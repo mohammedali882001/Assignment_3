@@ -25,13 +25,13 @@ private String brandName;
     
     public void bounce()
     {
-       System.out.println("حمدي فحي");
+       
     }
 
     @Override
     public void toss() 
     {
-        System.out.println("افشااااااااة");
+        
     }
     
 }
