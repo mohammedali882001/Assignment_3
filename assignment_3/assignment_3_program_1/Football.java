@@ -20,13 +20,13 @@ public class Football extends Ball
     @Override
     public void toss()
     {
-        System.out.println("شريييييف المخيف");
+        
     }
 
     @Override
     public void bounce()
     {
-        System.out.println("شنااااوي");
+        
     }
     
     
