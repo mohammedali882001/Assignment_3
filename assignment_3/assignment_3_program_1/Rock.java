@@ -15,7 +15,7 @@ public class Rock implements tossable
     @Override
     public void toss()
     {
-          System.out.println("السوووولية");
+         
     }
     
 }
